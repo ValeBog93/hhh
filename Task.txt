@@ -1,0 +1,23 @@
+EsercizioPratico
+
+Creare una Console Application che gestisca i Task dell’utente.
+Per Task viene inteso un oggetto che ha una descrizione, una data di scadenza e un livello di importanza (Basso, Medio, Alto).
+
+L’utente può:
+o	Vedere i Task inseriti
+o	Aggiungere un nuovo Task
+o	Eliminare un Task
+o	Filtrare i Task per importanza
+
+RequisitiTecnici:
+-Salvare i Task in un file
+-Utilizzare adeguatamente il concetto di classe
+-Dividere le funzionalità in relative funzioni e procedure
+-Commentare
+-Mettere una nomenclatura conforme
+-Le date di scadenza devono essere posteriori o uguali rispetto alla data di inserimento
+-Controllare l’input utente
+
+Opzionale: Utilizzare Enum
+
+Mettere il codice dell’esercizio in un Repository di GitHub.

@@ -1,0 +1,13 @@
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.exe
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.deps.json
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.runtimeconfig.json
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.runtimeconfig.dev.json
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.dll
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\bin\Debug\netcoreapp3.1\TaskVale.pdb
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.dll
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.pdb
+C:\Users\faggi\OneDrive\Desktop\TaskValentina\TaskVale\TaskVale\obj\Debug\netcoreapp3.1\TaskVale.genruntimeconfig.cache
